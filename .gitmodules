@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Your-Speaking-Avatar-nr"]
+	path = UBOS-template-Your-Speaking-Avatar-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Your-Speaking-Avatar-nr.git
+	branch = origin
+[submodule "UBOS-template-Your-Speaking-Avatar-ui"]
+	path = UBOS-template-Your-Speaking-Avatar-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Your-Speaking-Avatar-ui.git
+	branch = main
